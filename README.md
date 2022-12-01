@@ -23,6 +23,12 @@
 - [2003 - 2004] [Universidade de Brasília](https://www.unb.br/), Brazil - Master’s degree, Electrical Engineering
 - [1997 - 2002] [Universidade de Brasília](https://www.unb.br/), Brazil - Engineer’s degree, Telecommunications Engineering
  
+# Awards 🏆
+- [Nov 25th, 2022] [Jump2Digital](https://barcelonadigitaltalent.com/jump2digital-2022/) - Winner
+  - Created a Dashboard using React for Marketing team. 100% responsive and connected with backend API.
+- [Nov 13th, 2022] NUWE chalenge to Jump2Digital - [3rd position](https://nuwe.io/dev/report/6370ba198f8a45ad87da21b2).
+- [Jul 3rd, 2022] NUWE chagllege for Decathon/IT Academy Hackathon - [1st position](https://nuwe.io/dev/report/62ddbcb03e7628002783e127) 
+
 # Skills
 
 - Languages: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
